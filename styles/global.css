@@ -28,7 +28,7 @@ body {
 header {
     display: flex;
     justify-content: flex-start;
-    background-color: var(--chrome-background);
+    background-color: plum;
     box-shadow: 0px 10px 20px -12px rgba(0,0,0,0.45);
     padding: 0 var(--gutter);
 }
@@ -39,7 +39,7 @@ main {
 
 
 footer {
-    background-color: var(--chrome-background-opaque);
+    background-color: plum;
     padding: 10px var(--gutter);
     align-self: stretch;
 }

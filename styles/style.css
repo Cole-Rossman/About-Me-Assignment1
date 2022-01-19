@@ -68,6 +68,7 @@ header img {
 
 p {
     margin: var(--gutter);
+
 }
 
 footer {
@@ -81,9 +82,9 @@ footer {
 }
 
 #main-section {
-    border: black 2px solid;
+    border: black 2vmin solid;
     border-radius: 15px;
-    padding: auto;
+    padding: 15px;
 }
 
 .bold {
@@ -94,4 +95,8 @@ footer {
 .italics {
     font-style: italic;
     font-size: medium;
+}
+
+.font-size {
+    font-size: x-large;
 }
